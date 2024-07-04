@@ -1,12 +1,11 @@
 <template>
   <div>
-    <NuxtRouteAnnouncer />
-    <NuxtWelcome />
+ 1
   </div>
 </template>
 <style scoped lang="scss">
   .test {}
   .abc{
-    
+
   }
 </style>
